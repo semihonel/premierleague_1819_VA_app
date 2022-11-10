@@ -1,0 +1,761 @@
+,team,balbezit,Top10
+0,Manchester United,46,top10
+1,Leicester City,54,top10
+2,Newcastle United,40,overig
+3,Tottenham Hotspur,60,top10
+4,AFC Bournemouth,62,overig
+5,Cardiff City,38,overig
+6,Fulham,66,overig
+7,Crystal Palace,34,overig
+8,Huddersfield Town,37,overig
+9,Chelsea,63,top10
+10,Watford,53,overig
+11,Brighton & Hove Albion,47,overig
+12,Wolverhampton Wanderers,57,top10
+13,Everton,43,top10
+14,Liverpool,64,top10
+15,West Ham United,36,top10
+16,Southampton,47,overig
+17,Burnley,53,overig
+18,Arsenal,42,top10
+19,Manchester City,58,top10
+20,Cardiff City,51,overig
+21,Newcastle United,49,overig
+22,Everton,58,top10
+23,Southampton,42,overig
+24,Leicester City,42,top10
+25,Wolverhampton Wanderers,58,top10
+26,Tottenham Hotspur,59,top10
+27,Fulham,41,overig
+28,West Ham United,61,top10
+29,AFC Bournemouth,39,overig
+30,Chelsea,62,top10
+31,Arsenal,38,top10
+32,Burnley,58,overig
+33,Watford,42,overig
+34,Manchester City,76,top10
+35,Huddersfield Town,24,overig
+36,Brighton & Hove Albion,33,overig
+37,Manchester United,67,top10
+38,Crystal Palace,36,overig
+39,Liverpool,64,top10
+40,Wolverhampton Wanderers,28,top10
+41,Manchester City,72,top10
+42,AFC Bournemouth,49,overig
+43,Everton,51,top10
+44,Arsenal,61,top10
+45,West Ham United,39,top10
+46,Huddersfield Town,58,overig
+47,Cardiff City,42,overig
+48,Southampton,51,overig
+49,Leicester City,49,top10
+50,Liverpool,70,top10
+51,Brighton & Hove Albion,30,overig
+52,Watford,43,overig
+53,Crystal Palace,57,overig
+54,Fulham,63,overig
+55,Burnley,37,overig
+56,Newcastle United,18,overig
+57,Chelsea,82,top10
+58,Manchester United,57,top10
+59,Tottenham Hotspur,43,top10
+60,Leicester City,51,top10
+61,Liverpool,49,top10
+62,Brighton & Hove Albion,41,overig
+63,Fulham,59,overig
+64,Chelsea,72,top10
+65,AFC Bournemouth,28,overig
+66,Crystal Palace,50,overig
+67,Southampton,50,overig
+68,Everton,57,top10
+69,Huddersfield Town,43,overig
+70,West Ham United,47,top10
+71,Wolverhampton Wanderers,53,top10
+72,Manchester City,78,top10
+73,Newcastle United,22,overig
+74,Cardiff City,27,overig
+75,Arsenal,73,top10
+76,Burnley,46,overig
+77,Manchester United,54,top10
+78,Watford,34,overig
+79,Tottenham Hotspur,66,top10
+80,Tottenham Hotspur,60,top10
+81,Liverpool,40,top10
+82,AFC Bournemouth,46,overig
+83,Leicester City,54,top10
+84,Chelsea,76,top10
+85,Cardiff City,24,overig
+86,Huddersfield Town,58,overig
+87,Crystal Palace,42,overig
+88,Manchester City,64,top10
+89,Fulham,36,overig
+90,Newcastle United,36,overig
+91,Arsenal,64,top10
+92,Watford,42,overig
+93,Manchester United,58,top10
+94,Wolverhampton Wanderers,58,top10
+95,Burnley,42,overig
+96,Everton,55,top10
+97,West Ham United,45,top10
+98,Southampton,51,overig
+99,Brighton & Hove Albion,49,overig
+100,Fulham,60,overig
+101,Watford,40,overig
+102,Burnley,37,overig
+103,AFC Bournemouth,63,overig
+104,Cardiff City,21,overig
+105,Manchester City,79,top10
+106,Crystal Palace,61,overig
+107,Newcastle United,39,overig
+108,Leicester City,62,top10
+109,Huddersfield Town,38,overig
+110,Liverpool,60,top10
+111,Southampton,40,overig
+112,Manchester United,64,top10
+113,Wolverhampton Wanderers,36,top10
+114,Brighton & Hove Albion,28,overig
+115,Tottenham Hotspur,72,top10
+116,West Ham United,28,top10
+117,Chelsea,72,top10
+118,Arsenal,62,top10
+119,Everton,38,top10
+120,West Ham United,49,top10
+121,Manchester United,51,top10
+122,Arsenal,63,top10
+123,Watford,37,overig
+124,Everton,51,top10
+125,Fulham,49,overig
+126,Huddersfield Town,52,overig
+127,Tottenham Hotspur,48,top10
+128,Manchester City,80,top10
+129,Brighton & Hove Albion,20,overig
+130,Newcastle United,41,overig
+131,Leicester City,59,top10
+132,Wolverhampton Wanderers,48,top10
+133,Southampton,52,overig
+134,Chelsea,47,top10
+135,Liverpool,53,top10
+136,Cardiff City,54,overig
+137,Burnley,46,overig
+138,AFC Bournemouth,44,overig
+139,Crystal Palace,56,overig
+140,Brighton & Hove Albion,35,overig
+141,West Ham United,65,top10
+142,Burnley,31,overig
+143,Huddersfield Town,69,overig
+144,Crystal Palace,67,overig
+145,Wolverhampton Wanderers,33,top10
+146,Leicester City,51,top10
+147,Everton,49,top10
+148,Tottenham Hotspur,75,top10
+149,Cardiff City,25,overig
+150,Watford,47,overig
+151,AFC Bournemouth,53,overig
+152,Manchester United,73,top10
+153,Newcastle United,27,overig
+154,Fulham,48,overig
+155,Arsenal,52,top10
+156,Southampton,34,overig
+157,Chelsea,66,top10
+158,Liverpool,49,top10
+159,Manchester City,51,top10
+160,Chelsea,62,top10
+161,Manchester United,38,top10
+162,AFC Bournemouth,57,overig
+163,Southampton,43,overig
+164,Cardiff City,40,overig
+165,Fulham,60,overig
+166,Manchester City,69,top10
+167,Burnley,31,overig
+168,Newcastle United,68,overig
+169,Brighton & Hove Albion,32,overig
+170,West Ham United,44,top10
+171,Tottenham Hotspur,56,top10
+172,Wolverhampton Wanderers,44,top10
+173,Watford,56,overig
+174,Huddersfield Town,47,overig
+175,Liverpool,53,top10
+176,Everton,59,top10
+177,Crystal Palace,41,overig
+178,Arsenal,69,top10
+179,Leicester City,31,top10
+180,Brighton & Hove Albion,39,overig
+181,Wolverhampton Wanderers,61,top10
+182,Fulham,52,overig
+183,AFC Bournemouth,48,overig
+184,Liverpool,79,top10
+185,Cardiff City,21,overig
+186,Southampton,50,overig
+187,Newcastle United,50,overig
+188,Watford,48,overig
+189,Huddersfield Town,52,overig
+190,Leicester City,64,top10
+191,West Ham United,36,top10
+192,Burnley,30,overig
+193,Chelsea,70,top10
+194,Crystal Palace,42,overig
+195,Arsenal,58,top10
+196,Manchester United,53,top10
+197,Everton,47,top10
+198,Tottenham Hotspur,48,top10
+199,Manchester City,52,top10
+200,AFC Bournemouth,48,overig
+201,Manchester United,52,top10
+202,Cardiff City,40,overig
+203,Leicester City,60,top10
+204,Everton,61,top10
+205,Brighton & Hove Albion,39,overig
+206,Newcastle United,41,overig
+207,Watford,59,overig
+208,West Ham United,62,top10
+209,Burnley,38,overig
+210,Arsenal,61,top10
+211,Liverpool,39,top10
+212,Wolverhampton Wanderers,48,top10
+213,Tottenham Hotspur,52,top10
+214,Manchester City,67,top10
+215,Southampton,33,overig
+216,Chelsea,73,top10
+217,Crystal Palace,27,overig
+218,Huddersfield Town,45,overig
+219,Fulham,55,overig
+220,Cardiff City,60,overig
+221,Brighton & Hove Albion,40,overig
+222,Huddersfield Town,43,overig
+223,West Ham United,57,top10
+224,Leicester City,63,top10
+225,Burnley,37,overig
+226,Newcastle United,39,overig
+227,AFC Bournemouth,61,overig
+228,Southampton,42,overig
+229,Watford,58,overig
+230,Crystal Palace,35,overig
+231,Tottenham Hotspur,65,top10
+232,Liverpool,73,top10
+233,Fulham,27,overig
+234,Chelsea,68,top10
+235,Everton,32,top10
+236,Arsenal,71,top10
+237,Wolverhampton Wanderers,29,top10
+238,Manchester City,64,top10
+239,Manchester United,36,top10
+240,Brighton & Hove Albion,54,overig
+241,Leicester City,46,top10
+242,Everton,70,top10
+243,Cardiff City,30,overig
+244,Fulham,37,overig
+245,Southampton,63,overig
+246,Manchester United,59,top10
+247,Crystal Palace,41,overig
+248,Watford,36,overig
+249,Liverpool,64,top10
+250,West Ham United,30,top10
+251,Manchester City,70,top10
+252,Tottenham Hotspur,39,top10
+253,Chelsea,61,top10
+254,AFC Bournemouth,41,overig
+255,Arsenal,59,top10
+256,Wolverhampton Wanderers,44,top10
+257,Huddersfield Town,56,overig
+258,Burnley,56,overig
+259,Newcastle United,44,overig
+260,Cardiff City,47,overig
+261,Wolverhampton Wanderers,53,top10
+262,Crystal Palace,58,overig
+263,Burnley,42,overig
+264,Huddersfield Town,32,overig
+265,Brighton & Hove Albion,68,overig
+266,Leicester City,37,top10
+267,Watford,63,overig
+268,Manchester City,73,top10
+269,AFC Bournemouth,27,overig
+270,Newcastle United,58,overig
+271,West Ham United,42,top10
+272,Southampton,40,overig
+273,Manchester United,60,top10
+274,Chelsea,66,top10
+275,Fulham,34,overig
+276,Arsenal,59,top10
+277,Tottenham Hotspur,41,top10
+278,Liverpool,57,top10
+279,Everton,43,top10
+280,AFC Bournemouth,32,overig
+281,Huddersfield Town,68,overig
+282,Brighton & Hove Albion,31,overig
+283,Crystal Palace,69,overig
+284,West Ham United,61,top10
+285,Cardiff City,39,overig
+286,Watford,29,overig
+287,Manchester City,71,top10
+288,Burnley,25,overig
+289,Liverpool,75,top10
+290,Fulham,45,overig
+291,Leicester City,55,top10
+292,Wolverhampton Wanderers,29,top10
+293,Chelsea,71,top10
+294,Everton,76,top10
+295,Newcastle United,24,overig
+296,Manchester United,44,top10
+297,Arsenal,56,top10
+298,Tottenham Hotspur,52,top10
+299,Southampton,48,overig
+300,AFC Bournemouth,40,overig
+301,Liverpool,60,top10
+302,Arsenal,61,top10
+303,Huddersfield Town,39,overig
+304,Burnley,37,overig
+305,Brighton & Hove Albion,63,overig
+306,Cardiff City,36,overig
+307,Southampton,64,overig
+308,Manchester United,62,top10
+309,Fulham,38,overig
+310,West Ham United,48,top10
+311,Crystal Palace,52,overig
+312,Chelsea,38,top10
+313,Manchester City,62,top10
+314,Leicester City,42,top10
+315,Tottenham Hotspur,58,top10
+316,Newcastle United,50,overig
+317,Wolverhampton Wanderers,50,top10
+318,Everton,56,top10
+319,Watford,44,overig
+320,Manchester City,67,top10
+321,Everton,33,top10
+322,Crystal Palace,43,overig
+323,Leicester City,57,top10
+324,Huddersfield Town,73,overig
+325,Newcastle United,27,overig
+326,Tottenham Hotspur,70,top10
+327,Burnley,30,overig
+328,Watford,71,overig
+329,Cardiff City,29,overig
+330,Wolverhampton Wanderers,37,top10
+331,AFC Bournemouth,63,overig
+332,Fulham,56,overig
+333,West Ham United,44,top10
+334,Brighton & Hove Albion,41,overig
+335,Chelsea,59,top10
+336,Southampton,33,overig
+337,Arsenal,67,top10
+338,Liverpool,64,top10
+339,Manchester United,36,top10
+340,Wolverhampton Wanderers,38,top10
+341,Liverpool,62,top10
+342,Arsenal,60,top10
+343,Burnley,40,overig
+344,AFC Bournemouth,57,overig
+345,Brighton & Hove Albion,43,overig
+346,Chelsea,72,top10
+347,Leicester City,28,top10
+348,Huddersfield Town,62,overig
+349,Southampton,38,overig
+350,Manchester City,78,top10
+351,Crystal Palace,22,overig
+352,Newcastle United,53,overig
+353,Fulham,47,overig
+354,West Ham United,51,top10
+355,Watford,49,overig
+356,Cardiff City,25,overig
+357,Manchester United,75,top10
+358,Everton,41,top10
+359,Tottenham Hotspur,59,top10
+360,Fulham,29,overig
+361,Wolverhampton Wanderers,71,top10
+362,Burnley,49,overig
+363,Everton,51,top10
+364,Crystal Palace,62,overig
+365,Cardiff City,38,overig
+366,Leicester City,33,top10
+367,Manchester City,67,top10
+368,Liverpool,75,top10
+369,Newcastle United,25,overig
+370,Manchester United,64,top10
+371,Huddersfield Town,36,overig
+372,Tottenham Hotspur,56,top10
+373,AFC Bournemouth,44,overig
+374,Brighton & Hove Albion,32,overig
+375,Arsenal,68,top10
+376,Watford,35,overig
+377,Chelsea,65,top10
+378,Southampton,45,overig
+379,West Ham United,55,top10
+380,Brighton & Hove Albion,44,overig
+381,Everton,56,top10
+382,Fulham,43,overig
+383,Huddersfield Town,57,overig
+384,Leicester City,62,top10
+385,Cardiff City,38,overig
+386,Tottenham Hotspur,60,top10
+387,Wolverhampton Wanderers,40,top10
+388,Watford,62,overig
+389,Newcastle United,38,overig
+390,Liverpool,47,top10
+391,Arsenal,53,top10
+392,Crystal Palace,34,overig
+393,Chelsea,66,top10
+394,Burnley,43,overig
+395,West Ham United,57,top10
+396,Southampton,23,overig
+397,Manchester City,77,top10
+398,Manchester United,64,top10
+399,AFC Bournemouth,36,overig
+400,Everton,59,top10
+401,Leicester City,41,top10
+402,Arsenal,59,top10
+403,Fulham,41,overig
+404,Cardiff City,26,overig
+405,Tottenham Hotspur,74,top10
+406,Chelsea,71,top10
+407,Southampton,29,overig
+408,Huddersfield Town,42,overig
+409,Burnley,58,overig
+410,West Ham United,54,top10
+411,Brighton & Hove Albion,46,overig
+412,Wolverhampton Wanderers,51,top10
+413,Crystal Palace,49,overig
+414,AFC Bournemouth,57,overig
+415,Watford,43,overig
+416,Newcastle United,34,overig
+417,Manchester United,66,top10
+418,Manchester City,49,top10
+419,Liverpool,51,top10
+420,West Ham United,41,top10
+421,Arsenal,59,top10
+422,Brighton & Hove Albion,29,overig
+423,Liverpool,71,top10
+424,Burnley,41,overig
+425,Fulham,59,overig
+426,Cardiff City,38,overig
+427,Huddersfield Town,62,overig
+428,Crystal Palace,55,overig
+429,Watford,45,overig
+430,Leicester City,71,top10
+431,Southampton,29,overig
+432,Chelsea,65,top10
+433,Newcastle United,35,overig
+434,Everton,50,top10
+435,AFC Bournemouth,50,overig
+436,Tottenham Hotspur,61,top10
+437,Manchester United,39,top10
+438,Manchester City,76,top10
+439,Wolverhampton Wanderers,24,top10
+440,Wolverhampton Wanderers,45,top10
+441,Leicester City,55,top10
+442,AFC Bournemouth,38,overig
+443,West Ham United,62,top10
+444,Liverpool,70,top10
+445,Crystal Palace,30,overig
+446,Manchester United,56,top10
+447,Brighton & Hove Albion,44,overig
+448,Newcastle United,53,overig
+449,Cardiff City,47,overig
+450,Southampton,39,overig
+451,Everton,61,top10
+452,Watford,54,overig
+453,Burnley,46,overig
+454,Arsenal,35,top10
+455,Chelsea,65,top10
+456,Huddersfield Town,32,overig
+457,Manchester City,68,top10
+458,Fulham,26,overig
+459,Tottenham Hotspur,74,top10
+460,Arsenal,70,top10
+461,Cardiff City,30,overig
+462,Fulham,61,overig
+463,Brighton & Hove Albion,39,overig
+464,Huddersfield Town,58,overig
+465,Everton,42,top10
+466,Wolverhampton Wanderers,54,top10
+467,West Ham United,46,top10
+468,Manchester United,74,top10
+469,Burnley,26,overig
+470,Newcastle United,23,overig
+471,Manchester City,77,top10
+472,AFC Bournemouth,32,overig
+473,Chelsea,68,top10
+474,Southampton,58,overig
+475,Crystal Palace,42,overig
+476,Liverpool,72,top10
+477,Leicester City,28,top10
+478,Tottenham Hotspur,68,top10
+479,Watford,32,overig
+480,Tottenham Hotspur,71,top10
+481,Newcastle United,29,overig
+482,Brighton & Hove Albion,55,overig
+483,Watford,45,overig
+484,Burnley,54,overig
+485,Southampton,46,overig
+486,Chelsea,65,top10
+487,Huddersfield Town,35,overig
+488,Crystal Palace,37,overig
+489,Fulham,63,overig
+490,Everton,64,top10
+491,Wolverhampton Wanderers,36,top10
+492,Cardiff City,26,overig
+493,AFC Bournemouth,74,overig
+494,Leicester City,44,top10
+495,Manchester United,56,top10
+496,Manchester City,58,top10
+497,Arsenal,42,top10
+498,West Ham United,26,top10
+499,Liverpool,74,top10
+500,Everton,38,top10
+501,Manchester City,62,top10
+502,Fulham,51,overig
+503,Manchester United,49,top10
+504,Crystal Palace,57,overig
+505,West Ham United,43,top10
+506,Huddersfield Town,54,overig
+507,Arsenal,46,top10
+508,Liverpool,65,top10
+509,AFC Bournemouth,35,overig
+510,Southampton,66,overig
+511,Cardiff City,34,overig
+512,Watford,44,overig
+513,Everton,56,top10
+514,Brighton & Hove Albion,68,overig
+515,Burnley,32,overig
+516,Tottenham Hotspur,53,top10
+517,Leicester City,47,top10
+518,Manchester City,55,top10
+519,Chelsea,45,top10
+520,Wolverhampton Wanderers,59,top10
+521,Newcastle United,41,overig
+522,Cardiff City,35,overig
+523,Watford,65,overig
+524,West Ham United,55,top10
+525,Fulham,45,overig
+526,Burnley,30,overig
+527,Tottenham Hotspur,70,top10
+528,AFC Bournemouth,44,overig
+529,Wolverhampton Wanderers,56,top10
+530,Newcastle United,54,overig
+531,Huddersfield Town,46,overig
+532,Leicester City,65,top10
+533,Crystal Palace,35,overig
+534,Arsenal,62,top10
+535,Southampton,38,overig
+536,Manchester United,35,top10
+537,Liverpool,65,top10
+538,Cardiff City,32,overig
+539,Everton,68,top10
+540,Huddersfield Town,49,overig
+541,Wolverhampton Wanderers,51,top10
+542,Leicester City,49,top10
+543,Brighton & Hove Albion,51,overig
+544,Newcastle United,54,overig
+545,Burnley,46,overig
+546,Arsenal,64,top10
+547,AFC Bournemouth,36,overig
+548,Southampton,40,overig
+549,Fulham,60,overig
+550,Crystal Palace,45,overig
+551,Manchester United,55,top10
+552,Chelsea,46,top10
+553,Tottenham Hotspur,54,top10
+554,Liverpool,61,top10
+555,Watford,39,overig
+556,Manchester City,75,top10
+557,West Ham United,25,top10
+558,Tottenham Hotspur,60,top10
+559,Arsenal,40,top10
+560,AFC Bournemouth,18,overig
+561,Manchester City,82,top10
+562,Brighton & Hove Albion,52,overig
+563,Huddersfield Town,48,overig
+564,Burnley,56,overig
+565,Crystal Palace,44,overig
+566,Manchester United,64,top10
+567,Southampton,36,overig
+568,Wolverhampton Wanderers,56,top10
+569,Cardiff City,44,overig
+570,West Ham United,55,top10
+571,Newcastle United,45,overig
+572,Watford,39,overig
+573,Leicester City,61,top10
+574,Fulham,36,overig
+575,Chelsea,64,top10
+576,Everton,42,top10
+577,Liverpool,58,top10
+578,Crystal Palace,62,overig
+579,Brighton & Hove Albion,38,overig
+580,Cardiff City,29,overig
+581,West Ham United,71,top10
+582,Huddersfield Town,56,overig
+583,AFC Bournemouth,44,overig
+584,Leicester City,52,top10
+585,Fulham,48,overig
+586,Newcastle United,45,overig
+587,Everton,55,top10
+588,Southampton,36,overig
+589,Tottenham Hotspur,64,top10
+590,Manchester City,71,top10
+591,Watford,29,overig
+592,Liverpool,68,top10
+593,Burnley,32,overig
+594,Chelsea,75,top10
+595,Wolverhampton Wanderers,25,top10
+596,Arsenal,46,top10
+597,Manchester United,54,top10
+598,AFC Bournemouth,48,overig
+599,Newcastle United,52,overig
+600,Burnley,62,overig
+601,Leicester City,38,top10
+602,West Ham United,64,top10
+603,Huddersfield Town,36,overig
+604,Fulham,37,overig
+605,Liverpool,63,top10
+606,Everton,32,top10
+607,Chelsea,68,top10
+608,Fulham,34,overig
+609,Manchester City,66,top10
+610,Brighton & Hove Albion,60,overig
+611,Southampton,40,overig
+612,Burnley,37,overig
+613,Wolverhampton Wanderers,63,top10
+614,Crystal Palace,48,overig
+615,Huddersfield Town,52,overig
+616,Leicester City,58,top10
+617,AFC Bournemouth,42,overig
+618,Manchester United,51,top10
+619,Watford,49,overig
+620,West Ham United,49,top10
+621,Everton,51,top10
+622,Cardiff City,28,overig
+623,Chelsea,72,top10
+624,Liverpool,48,top10
+625,Tottenham Hotspur,52,top10
+626,Arsenal,70,top10
+627,Newcastle United,30,overig
+628,Watford,46,overig
+629,Fulham,54,overig
+630,Wolverhampton Wanderers,49,top10
+631,Manchester United,51,top10
+632,Chelsea,68,top10
+633,Brighton & Hove Albion,32,overig
+634,Tottenham Hotspur,65,top10
+635,Crystal Palace,35,overig
+636,Manchester City,78,top10
+637,Cardiff City,22,overig
+638,Southampton,33,overig
+639,Liverpool,67,top10
+640,AFC Bournemouth,59,overig
+641,Burnley,41,overig
+642,Huddersfield Town,44,overig
+643,Leicester City,56,top10
+644,Newcastle United,53,overig
+645,Crystal Palace,47,overig
+646,Everton,42,top10
+647,Arsenal,58,top10
+648,Chelsea,54,top10
+649,West Ham United,46,top10
+650,Leicester City,71,top10
+651,Newcastle United,29,overig
+652,Tottenham Hotspur,70,top10
+653,Huddersfield Town,30,overig
+654,Brighton & Hove Albion,50,overig
+655,AFC Bournemouth,50,overig
+656,Burnley,46,overig
+657,Cardiff City,54,overig
+658,Fulham,40,overig
+659,Everton,60,top10
+660,Southampton,30,overig
+661,Wolverhampton Wanderers,70,top10
+662,Manchester United,42,top10
+663,West Ham United,58,top10
+664,Crystal Palace,27,overig
+665,Manchester City,73,top10
+666,Liverpool,61,top10
+667,Chelsea,39,top10
+668,Watford,34,overig
+669,Arsenal,66,top10
+670,Brighton & Hove Albion,63,overig
+671,Cardiff City,37,overig
+672,Manchester City,60,top10
+673,Tottenham Hotspur,40,top10
+674,AFC Bournemouth,49,overig
+675,Fulham,51,overig
+676,Huddersfield Town,45,overig
+677,Watford,55,overig
+678,West Ham United,49,top10
+679,Leicester City,51,top10
+680,Wolverhampton Wanderers,68,top10
+681,Brighton & Hove Albion,32,overig
+682,Newcastle United,43,overig
+683,Southampton,57,overig
+684,Everton,48,top10
+685,Manchester United,52,top10
+686,Arsenal,72,top10
+687,Crystal Palace,28,overig
+688,Cardiff City,23,overig
+689,Liverpool,77,top10
+690,Chelsea,76,top10
+691,Burnley,24,overig
+692,Watford,62,overig
+693,Southampton,38,overig
+694,Tottenham Hotspur,78,top10
+695,Brighton & Hove Albion,22,overig
+696,Wolverhampton Wanderers,29,top10
+697,Arsenal,71,top10
+698,Manchester United,36,top10
+699,Manchester City,64,top10
+700,Liverpool,70,top10
+701,Huddersfield Town,30,overig
+702,Tottenham Hotspur,63,top10
+703,West Ham United,37,top10
+704,Crystal Palace,36,overig
+705,Everton,64,top10
+706,Fulham,73,overig
+707,Cardiff City,27,overig
+708,Southampton,44,overig
+709,AFC Bournemouth,56,overig
+710,Watford,56,overig
+711,Wolverhampton Wanderers,44,top10
+712,Brighton & Hove Albion,49,overig
+713,Newcastle United,51,overig
+714,Leicester City,67,top10
+715,Arsenal,33,top10
+716,Burnley,30,overig
+717,Manchester City,70,top10
+718,Manchester United,51,top10
+719,Chelsea,49,top10
+720,Everton,60,top10
+721,Burnley,40,overig
+722,AFC Bournemouth,53,overig
+723,Tottenham Hotspur,47,top10
+724,West Ham United,56,top10
+725,Southampton,44,overig
+726,Wolverhampton Wanderers,39,top10
+727,Fulham,61,overig
+728,Cardiff City,39,overig
+729,Crystal Palace,61,overig
+730,Newcastle United,30,overig
+731,Liverpool,70,top10
+732,Chelsea,58,top10
+733,Watford,42,overig
+734,Huddersfield Town,35,overig
+735,Manchester United,65,top10
+736,Arsenal,70,top10
+737,Brighton & Hove Albion,30,overig
+738,Manchester City,61,top10
+739,Leicester City,39,top10
+740,Brighton & Hove Albion,23,overig
+741,Manchester City,77,top10
+742,Burnley,39,overig
+743,Arsenal,61,top10
+744,Crystal Palace,45,overig
+745,AFC Bournemouth,55,overig
+746,Fulham,68,overig
+747,Newcastle United,32,overig
+748,Leicester City,46,top10
+749,Chelsea,54,top10
+750,Liverpool,59,top10
+751,Wolverhampton Wanderers,41,top10
+752,Manchester United,73,top10
+753,Cardiff City,27,overig
+754,Southampton,53,overig
+755,Huddersfield Town,47,overig
+756,Tottenham Hotspur,55,top10
+757,Everton,45,top10
+758,Watford,48,overig
+759,West Ham United,52,top10

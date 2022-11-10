@@ -1,0 +1,381 @@
+,Week,Wedstrijd,Scheidsrechter,Eindstand,Toeschouwers
+0,1,Manchester United - Leicester City,Andre Marriner,2 - 1,74439
+1,1,Newcastle United - Tottenham Hotspur,Martin Atkinson,1 - 2,51749
+2,1,AFC Bournemouth - Cardiff City,Kevin Friend,2 - 0,10353
+3,1,Fulham - Crystal Palace,Mike Dean,0 - 2,24821
+4,1,Huddersfield Town - Chelsea,Chris Kavanagh,0 - 3,24121
+5,1,Watford - Brighton & Hove Albion,Jonathan Moss,2 - 0,20051
+6,1,Wolverhampton Wanderers - Everton,Craig Pawson,2 - 2,31231
+7,1,Liverpool - West Ham United,Anthony Taylor,4 - 0,53235
+8,1,Southampton - Burnley,Graham Scott,0 - 0,30784
+9,1,Arsenal - Manchester City,Michael Oliver,0 - 2,59934
+10,2,Cardiff City - Newcastle United,Craig Pawson,0 - 0,30720
+11,2,Everton - Southampton,Lee Mason,2 - 1,38601
+12,2,Leicester City - Wolverhampton Wanderers,Mike Dean,2 - 0,32043
+13,2,Tottenham Hotspur - Fulham,Anthony Taylor,3 - 1,58297
+14,2,West Ham United - AFC Bournemouth,Stuart Attwell,1 - 2,56888
+15,2,Chelsea - Arsenal,Martin Atkinson,3 - 2,40491
+16,2,Burnley - Watford,Paul Tierney,1 - 3,18822
+17,2,Manchester City - Huddersfield Town,Andre Marriner,6 - 1,54021
+18,2,Brighton & Hove Albion - Manchester United,Kevin Friend,3 - 2,30592
+19,2,Crystal Palace - Liverpool,Michael Oliver,0 - 2,25750
+20,3,Wolverhampton Wanderers - Manchester City,Martin Atkinson,1 - 1,31222
+21,3,AFC Bournemouth - Everton,Lee Probert,2 - 2,10654
+22,3,Arsenal - West Ham United,Graham Scott,3 - 1,59830
+23,3,Huddersfield Town - Cardiff City,Michael Oliver,0 - 0,21193
+24,3,Southampton - Leicester City,Jonathan Moss,1 - 2,29925
+25,3,Liverpool - Brighton & Hove Albion,Chris Kavanagh,1 - 0,53294
+26,3,Watford - Crystal Palace,Anthony Taylor,2 - 1,20014
+27,3,Fulham - Burnley,David Coote,4 - 2,23438
+28,3,Newcastle United - Chelsea,Paul Tierney,1 - 2,51791
+29,3,Manchester United - Tottenham Hotspur,Craig Pawson,0 - 3,74400
+30,4,Leicester City - Liverpool,Paul Tierney,1 - 2,32149
+31,4,Brighton & Hove Albion - Fulham,Lee Probert,2 - 2,30526
+32,4,Chelsea - AFC Bournemouth,Lee Mason,2 - 0,40178
+33,4,Crystal Palace - Southampton,Martin Atkinson,0 - 2,25495
+34,4,Everton - Huddersfield Town,Stuart Attwell,1 - 1,38767
+35,4,West Ham United - Wolverhampton Wanderers,Chris Kavanagh,0 - 1,59947
+36,4,Manchester City - Newcastle United,Kevin Friend,2 - 1,53946
+37,4,Cardiff City - Arsenal,Anthony Taylor,2 - 3,32316
+38,4,Burnley - Manchester United,Jonathan Moss,0 - 2,21525
+39,4,Watford - Tottenham Hotspur,Andre Marriner,2 - 1,20141
+40,5,Tottenham Hotspur - Liverpool,Michael Oliver,1 - 2,80188
+41,5,AFC Bournemouth - Leicester City,Craig Pawson,4 - 2,10543
+42,5,Chelsea - Cardiff City,Jonathan Moss,4 - 1,40499
+43,5,Huddersfield Town - Crystal Palace,Lee Mason,0 - 1,23696
+44,5,Manchester City - Fulham,Stuart Attwell,3 - 0,53307
+45,5,Newcastle United - Arsenal,Lee Probert,1 - 2,52165
+46,5,Watford - Manchester United,Mike Dean,1 - 2,20537
+47,5,Wolverhampton Wanderers - Burnley,Andre Marriner,1 - 0,30406
+48,5,Everton - West Ham United,Martin Atkinson,1 - 3,39161
+49,5,Southampton - Brighton & Hove Albion,Anthony Taylor,2 - 2,27742
+50,6,Fulham - Watford,Martin Atkinson,1 - 1,23418
+51,6,Burnley - AFC Bournemouth,Anthony Taylor,4 - 0,18636
+52,6,Cardiff City - Manchester City,Michael Oliver,0 - 5,32321
+53,6,Crystal Palace - Newcastle United,Andre Marriner,0 - 0,25679
+54,6,Leicester City - Huddersfield Town,David Coote,3 - 1,31676
+55,6,Liverpool - Southampton,Paul Tierney,3 - 0,50965
+56,6,Manchester United - Wolverhampton Wanderers,Kevin Friend,1 - 1,74489
+57,6,Brighton & Hove Albion - Tottenham Hotspur,Chris Kavanagh,1 - 2,30531
+58,6,West Ham United - Chelsea,Mike Dean,0 - 0,56875
+59,6,Arsenal - Everton,Jonathan Moss,2 - 0,59964
+60,7,West Ham United - Manchester United,Michael Oliver,3 - 1,56938
+61,7,Arsenal - Watford,Anthony Taylor,2 - 0,60019
+62,7,Everton - Fulham,Roger East,3 - 0,38788
+63,7,Huddersfield Town - Tottenham Hotspur,Craig Pawson,0 - 2,23885
+64,7,Manchester City - Brighton & Hove Albion,Lee Mason,2 - 0,54152
+65,7,Newcastle United - Leicester City,Simon Hooper,0 - 2,51523
+66,7,Wolverhampton Wanderers - Southampton,Stuart Attwell,2 - 0,31147
+67,7,Chelsea - Liverpool,Andre Marriner,1 - 1,40625
+68,7,Cardiff City - Burnley,Martin Atkinson,1 - 2,30411
+69,7,AFC Bournemouth - Crystal Palace,Mike Dean,2 - 1,10199
+70,8,Brighton & Hove Albion - West Ham United,Kevin Friend,1 - 0,30544
+71,8,Burnley - Huddersfield Town,Chris Kavanagh,1 - 1,20533
+72,8,Crystal Palace - Wolverhampton Wanderers,Michael Oliver,0 - 1,25715
+73,8,Leicester City - Everton,Andre Marriner,1 - 2,32007
+74,8,Tottenham Hotspur - Cardiff City,Mike Dean,1 - 0,43268
+75,8,Watford - AFC Bournemouth,Jonathan Moss,0 - 4,20139
+76,8,Manchester United - Newcastle United,Anthony Taylor,3 - 2,74519
+77,8,Fulham - Arsenal,Paul Tierney,1 - 5,25401
+78,8,Southampton - Chelsea,Craig Pawson,0 - 3,27077
+79,8,Liverpool - Manchester City,Martin Atkinson,0 - 0,52117
+80,9,Chelsea - Manchester United,Mike Dean,2 - 2,40721
+81,9,AFC Bournemouth - Southampton,Lee Probert,0 - 0,10986
+82,9,Cardiff City - Fulham,Kevin Friend,4 - 2,29681
+83,9,Manchester City - Burnley,Jonathan Moss,5 - 0,54094
+84,9,Newcastle United - Brighton & Hove Albion,Andre Marriner,0 - 1,50329
+85,9,West Ham United - Tottenham Hotspur,Martin Atkinson,0 - 1,56921
+86,9,Wolverhampton Wanderers - Watford,Lee Mason,0 - 2,31144
+87,9,Huddersfield Town - Liverpool,Michael Oliver,0 - 1,24263
+88,9,Everton - Crystal Palace,Anthony Taylor,2 - 0,38668
+89,9,Arsenal - Leicester City,Chris Kavanagh,3 - 1,59886
+90,10,Brighton & Hove Albion - Wolverhampton Wanderers,Anthony Taylor,1 - 0,30654
+91,10,Fulham - AFC Bournemouth,Andre Marriner,0 - 3,25071
+92,10,Liverpool - Cardiff City,Stuart Attwell,4 - 1,53373
+93,10,Southampton - Newcastle United,Chris Kavanagh,0 - 0,30736
+94,10,Watford - Huddersfield Town,Mike Dean,3 - 0,20457
+95,10,Leicester City - West Ham United,Michael Oliver,1 - 1,31848
+96,10,Burnley - Chelsea,Craig Pawson,0 - 4,21430
+97,10,Crystal Palace - Arsenal,Martin Atkinson,2 - 2,25718
+98,10,Manchester United - Everton,Jonathan Moss,2 - 1,74525
+99,10,Tottenham Hotspur - Manchester City,Kevin Friend,0 - 1,56854
+100,11,AFC Bournemouth - Manchester United,Paul Tierney,1 - 2,10792
+101,11,Cardiff City - Leicester City,Lee Probert,0 - 1,30877
+102,11,Everton - Brighton & Hove Albion,David Coote,3 - 1,38966
+103,11,Newcastle United - Watford,Craig Pawson,1 - 0,49157
+104,11,West Ham United - Burnley,Roger East,4 - 2,56862
+105,11,Arsenal - Liverpool,Andre Marriner,1 - 1,59993
+106,11,Wolverhampton Wanderers - Tottenham Hotspur,Mike Dean,2 - 3,31185
+107,11,Manchester City - Southampton,Lee Mason,6 - 1,53916
+108,11,Chelsea - Crystal Palace,Michael Oliver,3 - 1,40407
+109,11,Huddersfield Town - Fulham,Anthony Taylor,1 - 0,17082
+110,12,Cardiff City - Brighton & Hove Albion,Martin Atkinson,2 - 1,29402
+111,12,Huddersfield Town - West Ham United,Chris Kavanagh,1 - 1,24069
+112,12,Leicester City - Burnley,Mike Dean,0 - 0,32184
+113,12,Newcastle United - AFC Bournemouth,Lee Probert,2 - 1,49266
+114,12,Southampton - Watford,Simon Hooper,1 - 1,28153
+115,12,Crystal Palace - Tottenham Hotspur,Jonathan Moss,0 - 1,25685
+116,12,Liverpool - Fulham,Paul Tierney,2 - 0,53128
+117,12,Chelsea - Everton,Kevin Friend,0 - 0,40345
+118,12,Arsenal - Wolverhampton Wanderers,Stuart Attwell,1 - 1,60030
+119,12,Manchester City - Manchester United,Anthony Taylor,3 - 1,54316
+120,13,Brighton & Hove Albion - Leicester City,Chris Kavanagh,1 - 1,30553
+121,13,Everton - Cardiff City,Paul Tierney,1 - 0,39139
+122,13,Fulham - Southampton,Michael Oliver,3 - 2,24603
+123,13,Manchester United - Crystal Palace,Lee Mason,0 - 0,74516
+124,13,Watford - Liverpool,Jonathan Moss,0 - 3,20540
+125,13,West Ham United - Manchester City,Andre Marriner,0 - 4,56886
+126,13,Tottenham Hotspur - Chelsea,Martin Atkinson,3 - 1,55465
+127,13,AFC Bournemouth - Arsenal,Craig Pawson,1 - 2,10792
+128,13,Wolverhampton Wanderers - Huddersfield Town,Kevin Friend,0 - 2,30130
+129,13,Burnley - Newcastle United,Anthony Taylor,1 - 2,20628
+130,14,Cardiff City - Wolverhampton Wanderers,Andre Marriner,2 - 1,30213
+131,14,Crystal Palace - Burnley,Lee Probert,2 - 0,25098
+132,14,Huddersfield Town - Brighton & Hove Albion,Michael Oliver,1 - 2,22973
+133,14,Leicester City - Watford,Graham Scott,2 - 0,31353
+134,14,Manchester City - AFC Bournemouth,Stuart Attwell,3 - 1,54409
+135,14,Newcastle United - West Ham United,Paul Tierney,0 - 3,51853
+136,14,Southampton - Manchester United,Kevin Friend,2 - 2,30187
+137,14,Chelsea - Fulham,Craig Pawson,2 - 0,40551
+138,14,Arsenal - Tottenham Hotspur,Mike Dean,4 - 2,59973
+139,14,Liverpool - Everton,Chris Kavanagh,1 - 0,51756
+140,15,AFC Bournemouth - Huddersfield Town,Roger East,2 - 1,9980
+141,15,Brighton & Hove Albion - Crystal Palace,Kevin Friend,3 - 1,29663
+142,15,West Ham United - Cardiff City,Graham Scott,3 - 1,56811
+143,15,Watford - Manchester City,Paul Tierney,1 - 2,20389
+144,15,Burnley - Liverpool,Stuart Attwell,1 - 3,21741
+145,15,Fulham - Leicester City,David Coote,1 - 1,22881
+146,15,Wolverhampton Wanderers - Chelsea,Jonathan Moss,2 - 1,31300
+147,15,Everton - Newcastle United,Lee Mason,1 - 1,39350
+148,15,Manchester United - Arsenal,Andre Marriner,2 - 2,74507
+149,15,Tottenham Hotspur - Southampton,Anthony Taylor,3 - 1,33012
+150,16,AFC Bournemouth - Liverpool,Lee Mason,0 - 4,10752
+151,16,Arsenal - Huddersfield Town,Paul Tierney,1 - 0,59893
+152,16,Burnley - Brighton & Hove Albion,Martin Atkinson,1 - 0,18497
+153,16,Cardiff City - Southampton,Jonathan Moss,1 - 0,30067
+154,16,Manchester United - Fulham,Lee Probert,4 - 1,74523
+155,16,West Ham United - Crystal Palace,Anthony Taylor,3 - 2,56995
+156,16,Chelsea - Manchester City,Michael Oliver,2 - 0,40571
+157,16,Leicester City - Tottenham Hotspur,Craig Pawson,0 - 2,31957
+158,16,Newcastle United - Wolverhampton Wanderers,Mike Dean,1 - 2,50223
+159,16,Everton - Watford,Kevin Friend,2 - 2,38400
+160,17,Manchester City - Everton,Craig Pawson,3 - 1,54173
+161,17,Crystal Palace - Leicester City,Michael Oliver,1 - 0,24738
+162,17,Huddersfield Town - Newcastle United,Anthony Taylor,0 - 1,24036
+163,17,Tottenham Hotspur - Burnley,Graham Scott,1 - 0,41645
+164,17,Watford - Cardiff City,Andy Madley,3 - 2,20032
+165,17,Wolverhampton Wanderers - AFC Bournemouth,Simon Hooper,2 - 0,30997
+166,17,Fulham - West Ham United,Mike Dean,0 - 2,24081
+167,17,Brighton & Hove Albion - Chelsea,Stuart Attwell,1 - 2,30645
+168,17,Southampton - Arsenal,Chris Kavanagh,3 - 2,29497
+169,17,Liverpool - Manchester United,Martin Atkinson,3 - 1,52908
+170,18,Wolverhampton Wanderers - Liverpool,Craig Pawson,0 - 2,31358
+171,18,Arsenal - Burnley,Kevin Friend,3 - 1,59493
+172,18,AFC Bournemouth - Brighton & Hove Albion,Mike Dean,2 - 0,10491
+173,18,Chelsea - Leicester City,Lee Probert,0 - 1,40558
+174,18,Huddersfield Town - Southampton,Stuart Attwell,1 - 3,22394
+175,18,Manchester City - Crystal Palace,Andre Marriner,2 - 3,54340
+176,18,Newcastle United - Fulham,Martin Atkinson,0 - 0,51237
+177,18,West Ham United - Watford,Lee Mason,0 - 2,56833
+178,18,Cardiff City - Manchester United,Michael Oliver,1 - 5,33028
+179,18,Everton - Tottenham Hotspur,Paul Tierney,2 - 6,39319
+180,19,Fulham - Wolverhampton Wanderers,Andre Marriner,1 - 1,24382
+181,19,Burnley - Everton,Michael Oliver,1 - 5,21484
+182,19,Crystal Palace - Cardiff City,Lee Probert,0 - 0,25206
+183,19,Leicester City - Manchester City,Mike Dean,2 - 1,32090
+184,19,Liverpool - Newcastle United,Graham Scott,4 - 0,53318
+185,19,Manchester United - Huddersfield Town,Jonathan Moss,3 - 1,74523
+186,19,Tottenham Hotspur - AFC Bournemouth,Chris Kavanagh,5 - 0,45154
+187,19,Brighton & Hove Albion - Arsenal,Anthony Taylor,1 - 1,30608
+188,19,Watford - Chelsea,Martin Atkinson,1 - 2,20415
+189,19,Southampton - West Ham United,Craig Pawson,1 - 2,31654
+190,20,Brighton & Hove Albion - Everton,Andy Madley,1 - 0,30597
+191,20,Fulham - Huddersfield Town,Kevin Friend,1 - 0,24423
+192,20,Leicester City - Cardiff City,Simon Hooper,0 - 1,32047
+193,20,Tottenham Hotspur - Wolverhampton Wanderers,Stuart Attwell,1 - 3,46356
+194,20,Watford - Newcastle United,Roger East,1 - 1,20336
+195,20,Liverpool - Arsenal,Michael Oliver,5 - 1,53326
+196,20,Crystal Palace - Chelsea,Craig Pawson,0 - 1,25781
+197,20,Burnley - West Ham United,David Coote,2 - 0,20933
+198,20,Southampton - Manchester City,Paul Tierney,1 - 3,31381
+199,20,Manchester United - AFC Bournemouth,Lee Mason,4 - 1,74556
+200,21,Everton - Leicester City,Martin Atkinson,0 - 1,39052
+201,21,Arsenal - Fulham,Graham Scott,4 - 1,59887
+202,21,Cardiff City - Tottenham Hotspur,Kevin Friend,0 - 3,32485
+203,21,Chelsea - Southampton,Jonathan Moss,0 - 0,40668
+204,21,Huddersfield Town - Burnley,Mike Dean,1 - 2,23715
+205,21,West Ham United - Brighton & Hove Albion,Chris Kavanagh,2 - 2,59870
+206,21,Wolverhampton Wanderers - Crystal Palace,Roger East,0 - 2,30666
+207,21,AFC Bournemouth - Watford,David Coote,3 - 3,10261
+208,21,Newcastle United - Manchester United,Andre Marriner,0 - 2,52217
+209,21,Manchester City - Liverpool,Anthony Taylor,2 - 1,54511
+210,22,West Ham United - Arsenal,Jonathan Moss,1 - 0,59946
+211,22,Brighton & Hove Albion - Liverpool,Kevin Friend,0 - 1,30862
+212,22,Burnley - Fulham,Martin Atkinson,2 - 1,19316
+213,22,Cardiff City - Huddersfield Town,Lee Mason,0 - 0,30725
+214,22,Crystal Palace - Watford,Paul Tierney,1 - 2,25010
+215,22,Leicester City - Southampton,Michael Oliver,1 - 2,31491
+216,22,Chelsea - Newcastle United,Chris Kavanagh,2 - 1,40491
+217,22,Everton - AFC Bournemouth,Anthony Taylor,2 - 0,38113
+218,22,Tottenham Hotspur - Manchester United,Mike Dean,0 - 1,80062
+219,22,Manchester City - Wolverhampton Wanderers,Craig Pawson,3 - 0,54171
+220,23,Wolverhampton Wanderers - Leicester City,Chris Kavanagh,4 - 3,31278
+221,23,AFC Bournemouth - West Ham United,Simon Hooper,2 - 0,10495
+222,23,Liverpool - Crystal Palace,Jonathan Moss,4 - 3,53171
+223,23,Manchester United - Brighton & Hove Albion,Paul Tierney,2 - 1,74532
+224,23,Newcastle United - Cardiff City,Stuart Attwell,3 - 0,49864
+225,23,Southampton - Everton,Graham Scott,2 - 1,29989
+226,23,Watford - Burnley,Michael Oliver,0 - 0,19510
+227,23,Arsenal - Chelsea,Anthony Taylor,2 - 0,59979
+228,23,Huddersfield Town - Manchester City,Andre Marriner,0 - 3,24190
+229,23,Fulham - Tottenham Hotspur,Craig Pawson,1 - 2,24807
+230,24,Arsenal - Cardiff City,Mike Dean,2 - 1,59933
+231,24,Fulham - Brighton & Hove Albion,Lee Probert,4 - 2,22008
+232,24,Huddersfield Town - Everton,Stuart Attwell,0 - 1,23699
+233,24,Wolverhampton Wanderers - West Ham United,David Coote,3 - 0,31122
+234,24,Manchester United - Burnley,Jonathan Moss,2 - 2,74529
+235,24,Newcastle United - Manchester City,Paul Tierney,2 - 1,50861
+236,24,AFC Bournemouth - Chelsea,Roger East,4 - 0,10227
+237,24,Southampton - Crystal Palace,Andre Marriner,1 - 1,28339
+238,24,Liverpool - Leicester City,Martin Atkinson,1 - 1,53092
+239,24,Tottenham Hotspur - Watford,Graham Scott,2 - 1,29164
+240,25,Tottenham Hotspur - Newcastle United,Andre Marriner,1 - 0,41219
+241,25,Brighton & Hove Albion - Watford,Simon Hooper,0 - 0,30414
+242,25,Burnley - Southampton,Anthony Taylor,1 - 1,19787
+243,25,Chelsea - Huddersfield Town,Paul Tierney,5 - 0,40626
+244,25,Crystal Palace - Fulham,Michael Oliver,2 - 0,25355
+245,25,Everton - Wolverhampton Wanderers,Lee Mason,1 - 3,39380
+246,25,Cardiff City - AFC Bournemouth,Jonathan Moss,2 - 0,31939
+247,25,Leicester City - Manchester United,Mike Dean,0 - 1,32148
+248,25,Manchester City - Arsenal,Martin Atkinson,3 - 1,54483
+249,25,West Ham United - Liverpool,Kevin Friend,1 - 1,59903
+250,27,Everton - Manchester City,Craig Pawson,0 - 2,39322
+251,26,Fulham - Manchester United,Paul Tierney,0 - 3,25001
+252,26,Crystal Palace - West Ham United,Craig Pawson,1 - 1,25552
+253,26,Huddersfield Town - Arsenal,Jonathan Moss,1 - 2,24182
+254,26,Liverpool - AFC Bournemouth,Anthony Taylor,3 - 0,53178
+255,26,Southampton - Cardiff City,Martin Atkinson,1 - 2,31438
+256,26,Watford - Everton,Lee Probert,1 - 0,20333
+257,26,Brighton & Hove Albion - Burnley,Stuart Attwell,1 - 3,29323
+258,26,Tottenham Hotspur - Leicester City,Michael Oliver,3 - 1,44154
+259,26,Manchester City - Chelsea,Mike Dean,6 - 0,54452
+260,26,Wolverhampton Wanderers - Newcastle United,Graham Scott,1 - 1,30687
+261,27,Cardiff City - Watford,Simon Hooper,1 - 5,30387
+262,27,West Ham United - Fulham,Lee Mason,3 - 1,59950
+263,27,Burnley - Tottenham Hotspur,Mike Dean,2 - 1,21338
+264,27,AFC Bournemouth - Wolverhampton Wanderers,Roger East,1 - 1,10671
+265,27,Newcastle United - Huddersfield Town,Kevin Friend,2 - 0,52174
+266,27,Leicester City - Crystal Palace,Anthony Taylor,1 - 4,31778
+267,27,Arsenal - Southampton,Graham Scott,2 - 0,59877
+268,27,Manchester United - Liverpool,Michael Oliver,0 - 0,74519
+269,28,Cardiff City - Everton,Kevin Friend,0 - 3,31849
+270,28,Huddersfield Town - Wolverhampton Wanderers,David Coote,1 - 0,22714
+271,28,Leicester City - Brighton & Hove Albion,Lee Probert,2 - 1,30558
+272,28,Newcastle United - Burnley,Craig Pawson,2 - 0,48323
+273,28,Arsenal - AFC Bournemouth,Chris Kavanagh,5 - 1,59618
+274,28,Southampton - Fulham,Anthony Taylor,2 - 0,27597
+275,28,Crystal Palace - Manchester United,Martin Atkinson,1 - 3,25754
+276,28,Chelsea - Tottenham Hotspur,Andre Marriner,2 - 0,40542
+277,28,Liverpool - Watford,Graham Scott,5 - 0,53316
+278,28,Manchester City - West Ham United,Stuart Attwell,1 - 0,53528
+279,29,Tottenham Hotspur - Arsenal,Anthony Taylor,1 - 1,81332
+280,29,AFC Bournemouth - Manchester City,Kevin Friend,0 - 1,10699
+281,29,Brighton & Hove Albion - Huddersfield Town,Mike Dean,1 - 0,30182
+282,29,Burnley - Crystal Palace,Lee Probert,1 - 3,19223
+283,29,Manchester United - Southampton,Stuart Attwell,3 - 2,74459
+284,29,Wolverhampton Wanderers - Cardiff City,Andre Marriner,2 - 0,31309
+285,29,West Ham United - Newcastle United,Chris Kavanagh,2 - 0,59910
+286,29,Watford - Leicester City,Jonathan Moss,2 - 1,20062
+287,29,Fulham - Chelsea,Graham Scott,1 - 2,24900
+288,29,Everton - Liverpool,Martin Atkinson,0 - 0,39335
+289,30,Crystal Palace - Brighton & Hove Albion,Craig Pawson,1 - 2,24972
+290,30,Cardiff City - West Ham United,Graham Scott,2 - 0,32458
+291,30,Huddersfield Town - AFC Bournemouth,Anthony Taylor,0 - 2,22304
+292,30,Leicester City - Fulham,David Coote,3 - 1,32017
+293,30,Newcastle United - Everton,Lee Mason,3 - 2,52242
+294,30,Southampton - Tottenham Hotspur,Kevin Friend,2 - 1,31890
+295,30,Manchester City - Watford,Paul Tierney,3 - 1,54104
+296,30,Liverpool - Burnley,Andre Marriner,4 - 2,53310
+297,30,Chelsea - Wolverhampton Wanderers,Michael Oliver,1 - 1,40692
+298,30,Arsenal - Manchester United,Jonathan Moss,2 - 0,60000
+299,31,AFC Bournemouth - Newcastle United,Mike Dean,2 - 2,10625
+300,31,Burnley - Leicester City,Michael Oliver,1 - 2,20719
+301,31,West Ham United - Huddersfield Town,Jonathan Moss,4 - 3,59931
+302,31,Fulham - Liverpool,Craig Pawson,1 - 2,25043
+303,31,Everton - Chelsea,Anthony Taylor,2 - 0,39356
+304,32,Fulham - Manchester City,Kevin Friend,0 - 2,25001
+305,32,Brighton & Hove Albion - Southampton,Michael Oliver,0 - 1,30636
+306,32,Burnley - Wolverhampton Wanderers,Chris Kavanagh,2 - 0,20990
+307,32,Crystal Palace - Huddersfield Town,Lee Probert,2 - 0,25193
+308,32,Leicester City - AFC Bournemouth,Lee Mason,2 - 0,31530
+309,32,Manchester United - Watford,Stuart Attwell,2 - 1,74543
+310,32,West Ham United - Everton,Paul Tierney,0 - 2,59988
+311,32,Cardiff City - Chelsea,Craig Pawson,1 - 2,32657
+312,32,Liverpool - Tottenham Hotspur,Martin Atkinson,2 - 1,53322
+313,32,Arsenal - Newcastle United,Anthony Taylor,2 - 0,59869
+314,33,Watford - Fulham,Roger East,4 - 1,17301
+315,33,Wolverhampton Wanderers - Manchester United,Mike Dean,2 - 1,31302
+316,27,Chelsea - Brighton & Hove Albion,Graham Scott,3 - 0,38593
+317,31,Tottenham Hotspur - Crystal Palace,Andre Marriner,2 - 0,59215
+318,33,Manchester City - Cardiff City,Jonathan Moss,2 - 0,53559
+319,33,Southampton - Liverpool,Paul Tierney,1 - 3,31797
+320,33,AFC Bournemouth - Burnley,Martin Atkinson,1 - 3,10446
+321,33,Huddersfield Town - Leicester City,David Coote,1 - 4,24126
+322,33,Newcastle United - Crystal Palace,Stuart Attwell,0 - 1,51926
+323,33,Everton - Arsenal,Kevin Friend,1 - 0,39400
+324,33,Chelsea - West Ham United,Chris Kavanagh,2 - 0,40537
+325,34,Leicester City - Newcastle United,Chris Kavanagh,0 - 1,32108
+326,34,Tottenham Hotspur - Huddersfield Town,Lee Mason,4 - 0,58308
+327,34,Brighton & Hove Albion - AFC Bournemouth,Kevin Friend,0 - 5,30460
+328,34,Burnley - Cardiff City,Mike Dean,2 - 0,21480
+329,34,Fulham - Everton,Lee Probert,2 - 0,24971
+330,34,Southampton - Wolverhampton Wanderers,Jonathan Moss,3 - 1,31708
+331,34,Manchester United - West Ham United,Graham Scott,2 - 1,74478
+332,34,Crystal Palace - Manchester City,Martin Atkinson,1 - 3,25721
+333,34,Liverpool - Chelsea,Michael Oliver,2 - 0,53279
+334,34,Watford - Arsenal,Craig Pawson,0 - 1,20480
+335,31,Brighton & Hove Albion - Cardiff City,Andre Marriner,0 - 2,30226
+336,35,Manchester City - Tottenham Hotspur,Michael Oliver,1 - 0,54489
+337,35,AFC Bournemouth - Fulham,David Coote,0 - 1,10511
+338,35,Huddersfield Town - Watford,Roger East,1 - 2,23957
+339,35,West Ham United - Leicester City,Lee Probert,2 - 2,59960
+340,35,Wolverhampton Wanderers - Brighton & Hove Albion,Craig Pawson,0 - 0,31096
+341,35,Newcastle United - Southampton,Anthony Taylor,3 - 1,52191
+342,35,Everton - Manchester United,Paul Tierney,4 - 0,39395
+343,35,Arsenal - Crystal Palace,Jonathan Moss,2 - 3,59929
+344,35,Cardiff City - Liverpool,Martin Atkinson,0 - 2,33082
+345,35,Chelsea - Burnley,Kevin Friend,2 - 2,40642
+346,31,Watford - Southampton,Mike Dean,1 - 1,19170
+347,33,Tottenham Hotspur - Brighton & Hove Albion,Chris Kavanagh,1 - 0,56251
+348,31,Wolverhampton Wanderers - Arsenal,Stuart Attwell,3 - 1,31436
+349,31,Manchester United - Manchester City,Andre Marriner,0 - 2,74431
+350,36,Liverpool - Huddersfield Town,Kevin Friend,5 - 0,53249
+351,36,Tottenham Hotspur - West Ham United,Anthony Taylor,0 - 1,60043
+352,36,Crystal Palace - Everton,Lee Mason,0 - 0,25789
+353,36,Fulham - Cardiff City,Chris Kavanagh,1 - 0,23822
+354,36,Southampton - AFC Bournemouth,Graham Scott,3 - 3,31310
+355,36,Watford - Wolverhampton Wanderers,Simon Hooper,1 - 2,20323
+356,36,Brighton & Hove Albion - Newcastle United,Mike Dean,1 - 1,30587
+357,36,Leicester City - Arsenal,Michael Oliver,3 - 0,32037
+358,36,Burnley - Manchester City,Paul Tierney,0 - 1,21605
+359,36,Manchester United - Chelsea,Martin Atkinson,1 - 1,74526
+360,37,Everton - Burnley,Chris Kavanagh,2 - 0,39303
+361,37,AFC Bournemouth - Tottenham Hotspur,Craig Pawson,1 - 0,10630
+362,37,West Ham United - Southampton,Stuart Attwell,3 - 0,59961
+363,37,Wolverhampton Wanderers - Fulham,Jonathan Moss,1 - 0,30456
+364,37,Cardiff City - Crystal Palace,Michael Oliver,2 - 3,32133
+365,37,Newcastle United - Liverpool,Andre Marriner,2 - 3,52206
+366,37,Chelsea - Watford,Paul Tierney,3 - 0,40650
+367,37,Huddersfield Town - Manchester United,Lee Mason,1 - 1,24263
+368,37,Arsenal - Brighton & Hove Albion,Anthony Taylor,1 - 1,59965
+369,37,Manchester City - Leicester City,Mike Dean,1 - 0,54506
+370,38,Brighton & Hove Albion - Manchester City,Michael Oliver,1 - 4,30662
+371,38,Burnley - Arsenal,Mike Dean,1 - 3,21461
+372,38,Crystal Palace - AFC Bournemouth,Roger East,5 - 3,25433
+373,38,Fulham - Newcastle United,Kevin Friend,0 - 4,24979
+374,38,Leicester City - Chelsea,Anthony Taylor,0 - 0,32140
+375,38,Liverpool - Wolverhampton Wanderers,Martin Atkinson,2 - 0,53331
+376,38,Manchester United - Cardiff City,Jonathan Moss,0 - 2,74457
+377,38,Southampton - Huddersfield Town,Lee Probert,1 - 1,30367
+378,38,Tottenham Hotspur - Everton,Andre Marriner,2 - 2,60124
+379,38,Watford - West Ham United,Chris Kavanagh,1 - 4,20067

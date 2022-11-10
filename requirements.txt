@@ -1,0 +1,12 @@
+streamlit
+pandas
+streamlit-folium
+matplotlib
+plotly
+plotly-express
+Pillow
+seaborn
+numpy
+geopandas
+folium
+requests
